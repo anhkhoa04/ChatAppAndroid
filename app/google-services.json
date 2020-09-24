@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595277349065",
+    "firebase_url": "https://chatapp-c0d61.firebaseio.com",
+    "project_id": "chatapp-c0d61",
+    "storage_bucket": "chatapp-c0d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595277349065:android:5043061b9c378d61d90d18",
+        "android_client_info": {
+          "package_name": "edu.csc.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595277349065-71ubrumqko6q6vkdpoarp81b6cpktnut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.csc.chatapp",
+            "certificate_hash": "a53a36cf8db3ec71dfaec18068a818d0d5922b70"
+          }
+        },
+        {
+          "client_id": "595277349065-68f71boesatoesvdh9egd8snqj492s4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCnFw8d6XXLLi-VN0Dz1ENc7k0pErQPRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595277349065-68f71boesatoesvdh9egd8snqj492s4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
